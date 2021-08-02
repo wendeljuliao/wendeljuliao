@@ -3,7 +3,7 @@
 
 - 🔭 Hoje trabalho com Ciência de Dados e Mobile
 - 🌱 Estudando Deep Learning
-- 😄 Pronouns: Ele/Dele
+- 😄 Pronomes: Ele/Dele
 
 ##
 
