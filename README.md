@@ -1,7 +1,7 @@
 ## Olá! Eu sou o Wendel :)
 
 
-- 🔭 Hoje trabalho com Ciência de Dados e Mobile
+- 🔭 Hoje trabalho com Ciência de Dados e Front Web|Mobile
 - 🌱 Estudando Deep Learning
 - 😄 Pronomes: Ele/Dele
 
