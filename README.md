@@ -1,8 +1,8 @@
 ## Olá! Eu sou o Wendel :)
 
 
-- 🔭 Hoje trabalho com Ciência de Dados e Front Web|Mobile
-- 🌱 Estudando Deep Learning
+- 🔭 Hoje trabalho Front Web | Mobile
+- 🌱 Estudando React JS e Native
 - 😄 Pronomes: Ele/Dele
 
  <div>
