@@ -1,7 +1,7 @@
 ## Olá! Eu sou o Wendel :)
 
 
-- 🔭 Hoje trabalho Front Web | Mobile
+- 🔭 Hoje trabalho com Front Web | Mobile
 - 🌱 Estudando React JS e Native
 - 😄 Pronomes: Ele/Dele
 
